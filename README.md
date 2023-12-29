@@ -1,0 +1,1 @@
+It is a SpringBoot project with the CRUD functionalities. I have used an author and  book example. DAO's are working with all the functionalities of CRUD. It is connected to H2 DB for testing and also has a postgres connection configured for production.
